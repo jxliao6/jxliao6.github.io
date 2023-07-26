@@ -8,7 +8,7 @@ pubtype: 'regular'
 venue: 'the Web Conference 2021 (WWW)'
 authors: Chien-Lin Tang*, <strong>Jingxian Liao*</strong>, Hao-Chuan Wang, Ching-Ying Sung, Wen-Chieh Lin
 paperurl: 'https://doi.org/10.1145/3442381.3449808'
-preprint: 'files/publications/ConceptGuide_www21.pdf'
+preprint: '/files/publications/ConceptGuide_www21.pdf'
 video: 'https://github.com/jxliao6/ConceptGuide.github.io/blob/main/conceptguide_demo.mp4'
 image: '/images/ConceptGuide_interface.png'
 award: 1
