@@ -20,7 +20,7 @@ author_profile: true
 
 
 
-<h2>Conference Late Breaking Work, Workshop Papers, Posters</h2>
+<h2>Conference Late Breaking Work, Workshop Papers, Posters, Demos</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'short' %}
       {% include archive-single.html %}
