@@ -12,3 +12,7 @@ author_profile: true
 {% for post in site.work reversed %}
       {% include archive-single.html %}
 {% endfor %}
+
+{% for post in site.work reversed %}
+      {% include archive-single.html %}
+{% endfor %}
