@@ -56,6 +56,12 @@
         date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
+    {% if post.collection == 'work' %}
+    <div class="work-content">
+        {{ post.content | markdownify }}
+    </div>
+    {% endif %}
+
     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
