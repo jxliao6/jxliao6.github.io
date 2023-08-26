@@ -3,8 +3,8 @@ title: "Working experiences"
 permalink: /work/
 ---
 
-# PhD Researcher
-**University of California - Davis**  
+## PhD Researcher
+***University of California - Davis**  
 _Davis, CA, USA_  
 Sep 2018 - Present  
 
@@ -12,12 +12,12 @@ Sep 2018 - Present
 - **Full-stack and Design**: Developed scalable GPT-aided, full-stack Web systems using React, JavaScript, and D3.js (frontend), and NoSQL, Python (backend) which increased human-AI interactions and improved click rates by 2x
 - **DS**: Analyzed 10k comments across videos, from data cleaning, labeling to visualization, modeling, to gain insights from crowd wisdom for video recommendation
 - **Experiments**: Conducted ethnography, surveys, and interviews, executing lab experiments with 200+ participants, providing actionable insights to design and engineering practitioners and researchers
-- **Leadership**: Lead multiple undergrad research projects and mentored six junior researchers across ML/AI/HCI research
+- **Leadership**: Led multiple undergrad research projects and mentored six junior researchers across ML/AI/HCI research
 
 ---
 
-# Google Research Intern
-**Google**  
+## Research Intern
+***Google Research**  
 _Mountain View, CA, USA_  
 Jun 2022 - Sep 2022
 
@@ -27,8 +27,8 @@ Jun 2022 - Sep 2022
 
 ---
 
-# Intuit Data Scientist Intern
-**Intuit**  
+## Data Scientist Intern
+***Intuit AI, Intuit**  
 _Mountain View, CA, USA_  
 Jun 2020 - Sep 2021
 
