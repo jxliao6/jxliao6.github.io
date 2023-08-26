@@ -41,6 +41,11 @@
 
     {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'work' %}
+      <div class="work-content">
+        {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {{ post.content | markdownify }}
+      </div>
     {% elsif post.collection == 'publications' %}
       {% if post.authors %}
       {{ post.authors }} <br />
