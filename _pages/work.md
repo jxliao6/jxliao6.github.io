@@ -4,7 +4,7 @@ permalink: /work/
 ---
 
 ## PhD Researcher
-***University of California - Davis**  
+**University of California - Davis**  
 _Davis, CA, USA_  
 Sep 2018 - Present  
 
@@ -17,7 +17,7 @@ Sep 2018 - Present
 ---
 
 ## Research Intern
-***Google Research**  
+**Google Research**  
 _Mountain View, CA, USA_  
 Jun 2022 - Sep 2022
 
@@ -28,7 +28,7 @@ Jun 2022 - Sep 2022
 ---
 
 ## Data Scientist Intern
-***Intuit AI, Intuit**  
+**Intuit AI, Intuit**  
 _Mountain View, CA, USA_  
 Jun 2020 - Sep 2021
 
