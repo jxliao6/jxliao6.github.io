@@ -20,6 +20,6 @@ With ConceptCombo, novice users may adopt a synergistic approach to video explor
 
 <img src='/images/cgp_nlp_twopanels.png'>
 
-Contact: Jingxian Liao (jxliao@ucdavis.edu)
+Contact: Jingxian Liao
 
 Demo video: [video link](https://youtu.be/KYJLwarEnHs)
