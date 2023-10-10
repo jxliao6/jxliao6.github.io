@@ -13,7 +13,7 @@ image: '/images/cgp_nlp_twopanels.png'
 
 Authors: Jingxian Liao, Mrinalini Singh, Yi-Ting Hung, Wen-Chieh Lin, Hao-Chuan Wang
 
-Demo video: [video link](https://youtu.be/KYJLwarEnHs)
+Demo video: [video link](https://youtu.be/A8qgBDZq6NM)
 
 **Abstract:**
 
