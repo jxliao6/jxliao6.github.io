@@ -11,28 +11,14 @@ video: 'https://youtu.be/KYJLwarEnHs'
 image: '/images/DTM_interface_2023.png'
 ---
 
-Authors: Jingxian Liao, Mrinalini Singh, Yi-Ting Hung, Wen-Chieh Lin, Hao-Chuan Wang
-
-**Abstract:**
-
-As access to educational video resources has been enhanced through search tools, recommender systems, and social channeling, users often encounter challenges in integrating diverse videos systematically, particularly when they possess a limited understanding of the topics at hand (e.g., novice learners). To address this challenge, we present ConceptCombo, a video navigating interface facilitating user explorations of unstructured video collections with conceptual structures and themes of social comments extracted from videos and visualized by the system. To help novices identify a series of quality videos to watch, ConceptCombo aims to deliver a structured overview of the video collection by systematically extracting a concept map from the video content, coupled with automatic summarization of user comments across the videos, as a treemap visualization. 
-With ConceptCombo, novice users may adopt a synergistic approach to video exploration, underpinned by the semantic structure of the video content, social comments, and additional video metadata.
-
-<img src='/images/cgp_nlp_twopanels.png'>
-
-Contact: Jingxian Liao
+Authors: Jingxian Liao, Mrinalini Singh, Hao-Chuan Wang
 
 Demo video: [video link](https://youtu.be/KYJLwarEnHs)
 
-Authors: Jingxian Liao, Mrinalini Singh, Yi-Ting Hung, Wen-Chieh Lin, Hao-Chuan Wang
-
 **Abstract:**
 
-As access to educational video resources has been enhanced through search tools, recommender systems, and social channeling, users often encounter challenges in integrating diverse videos systematically, particularly when they possess a limited understanding of the topics at hand (e.g., novice learners). To address this challenge, we present ConceptCombo, a video navigating interface facilitating user explorations of unstructured video collections with conceptual structures and themes of social comments extracted from videos and visualized by the system. To help novices identify a series of quality videos to watch, ConceptCombo aims to deliver a structured overview of the video collection by systematically extracting a concept map from the video content, coupled with automatic summarization of user comments across the videos, as a treemap visualization. 
-With ConceptCombo, novice users may adopt a synergistic approach to video exploration, underpinned by the semantic structure of the video content, social comments, and additional video metadata.
+The varying quality of information online has increased cognitive demands to process information beyond surface-level understanding, particularly in high-stakes domains. Cognitive and social heuristics, including availability bias and evaluation apprehension, may hinder reflective and critical thinking. To address this, we introduce social nudging, a non-coercive intervention that leverages peers' thoughts and commenting behaviors to encourage deep thinking. By seeing how peers conceptualize and reflect on information (e.g., healthcare videos), their insights can serve as a nudge, engaging individuals in active thinking and fostering in-depth thoughts. We present DeepThinkingMap, a collaborative interface for video watching that enables thought exchanging on a concept-mapping-akin workspace. Through two studies, we found that social nudging enhances the engagement of both reflective and critical thinking, and elevates users' attitude confidence. These studies contribute to understandings of the sociotechnical cognitive mechanisms and the design space of social nudging to support reflection and critical thinking of high-stakes information. 
 
-<img src='/images/cgp_nlp_twopanels.png'>
+Contact: Jingxian Liao (jxliao@ucdavis.edu)
 
-Contact: Jingxian Liao
-
-Demo video: [video link](https://youtu.be/KYJLwarEnHs)
+<img src='/images/DTM_interface_2023.png'>
