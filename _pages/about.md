@@ -18,9 +18,10 @@ I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statisti
 
 <span>**News!**</span>
 
-*08/23*: I will join the Grace Hopper Celebration 2023 in person, Sep 25 - 29 in Orlando. Feel free to connect!
 
-*06/23*: I will attend CSCW 23 in person in Minneapolis, MN, with two demos I built for video learning and collaborative review! Welcome to stop by my booth! 
+*10/23*: I will attend CSCW 23 in person in Minneapolis, MN, with two demos about my work for [critical reflection](https://jxliao6.github.io/publication/2023-07-01-DeepThinkingMapDemo) and [video-based knowledge exploration](https://jxliao6.github.io/ConceptGuide.github.io/)! Welcome to stop by my booth on Monday evening! 
+
+*08/23*: I will join the Grace Hopper Celebration 2023 in person, Sep 25 - 29 in Orlando. Feel free to connect!
 
 *03/23*: We will have a Special Interest Group (SIG) about "Reflecting on Hybrid Events: Learning from a Year of Hybrid Experiences" in CHI 2023! Welcome to discuss about the future of hybrid events with us!
 
