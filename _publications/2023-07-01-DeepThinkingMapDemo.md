@@ -9,6 +9,7 @@ venue: 'CSCW 2023 Companion'
 authors: <strong>Jingxian Liao</strong>, Mrinalini Singh, Hao-Chuan Wang
 video: 'https://youtu.be/KYJLwarEnHs'
 image: '/images/DTM_interface_2023.png'
+paperurl: 'https://dl.acm.org/doi/10.1145/3584931.3607501'
 ---
 
 Authors: Jingxian Liao, Mrinalini Singh, Hao-Chuan Wang

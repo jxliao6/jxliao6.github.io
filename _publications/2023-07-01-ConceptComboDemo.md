@@ -9,6 +9,7 @@ venue: 'CSCW 2023 Companion'
 authors: <strong>Jingxian Liao</strong>, Mrinalini Singh, Yi-Ting Hung, Wen-Chieh Lin, Hao-Chuan Wang
 video: 'https://youtu.be/A8qgBDZq6NM'
 image: '/images/cgp_nlp_twopanels.png'
+paperurl: 'https://dl.acm.org/doi/10.1145/3584931.3607499'
 ---
 
 Authors: Jingxian Liao, Mrinalini Singh, Yi-Ting Hung, Wen-Chieh Lin, Hao-Chuan Wang
