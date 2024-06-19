@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jingxian Liao"
   avatar           : "jxliao_selfie.JPG"
-  bio              : "PhD Candidate @ University of California, Davis"
+  bio              : "PhD graduated from University of California, Davis"
   location         : "Davis, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=-MHJUbwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=b4fLL8gAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "{{ site.baseurl }}/files/Jingxian Liao CV 01_2023.pdf"
