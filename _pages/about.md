@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a PhD in CS, graduated from University of California, Davis and advised by Professor [Hao-Chuan Wang](http://www.haochuanwang.info/). My research area is Human-Computer Interaction (HCI) and Artificial intelligence (AI), with a focus on Computer-Supported Cooperative Work & Social Computing and Human-AI Collaboration. My studies use social interaction mechanisms and human-centered AI approaches to understand and facilitate general online users to forage, evaluate, and apply knowledge online individually and in group. I'm also part of the SIGCHI working group on hybrid conference experiences.
+I'm a PhD in CS, graduated from University of California, Davis and advised by Professor [Hao-Chuan Wang](http://www.haochuanwang.info/). My research area is Human-Computer Interaction (HCI) and Artificial intelligence (AI), with a focus on Computer-Supported Cooperative Work & Social Computing and Human-AI Collaboration. My studies use social interaction mechanisms and human-centered AI approaches to understand and facilitate general online users to forage, evaluate, and apply knowledge online individually and in group. 
 
 
 I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statistics from University of California, Davis (2018).
