@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u> and some of my prototypes on <u><a href="{{site.author.youtube}}">my YouTube list</a>
 {% endif %}
 
@@ -25,4 +25,4 @@ author_profile: true
   {% if post.pubtype == 'short' %}
       {% include archive-single.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->

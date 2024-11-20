@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://jxliao6.github.io/files/jxliao-CV-082023.pdf" type="application/pdf" width="600px" height="500px" />
+<!-- <embed src="https://jxliao6.github.io/files/jxliao-CV-082023.pdf" type="application/pdf" width="600px" height="500px" /> -->
