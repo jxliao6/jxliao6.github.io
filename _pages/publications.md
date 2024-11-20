@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-<h2>First-author main projects</h2>
+<h2>First-author full paper and workshop</h2>
 {% for post in site.publications reversed %}
   {% if post.mainproject == 'true'%}
       {% include archive-single.html %}
@@ -16,7 +16,7 @@ author_profile: true
 
 
 
-<h2>Others</h2>
+<h2>Other full paper</h2>
 {% for post in site.publications reversed %}
   {% if post.mainproject == 'false' %}
       {% include archive-single.html %}

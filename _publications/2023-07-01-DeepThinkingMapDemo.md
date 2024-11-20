@@ -5,7 +5,6 @@ permalink: /publication/2023-07-01-DeepThinkingMapDemo
 excerpt: ''
 date: 2023-07-01
 pubtype: 'short'
-mainproject: 'true'
 venue: 'CSCW 2023 Companion'
 authors: <strong>Jingxian Liao</strong>, Mrinalini Singh, Hao-Chuan Wang
 video: 'https://youtu.be/KYJLwarEnHs'

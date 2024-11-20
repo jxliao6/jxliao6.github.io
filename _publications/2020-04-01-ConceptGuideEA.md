@@ -5,7 +5,6 @@ permalink: /publication/2020-04-01-ConceptGuideEA
 excerpt: 'Toadd.'
 date: 2020-04-01
 pubtype: 'short'
-mainproject: 'false'
 venue: 'CHI 2020 EA'
 authors: Chien-Lin Tang*, <strong>Jingxian Liao*</strong>, Hao-Chuan Wang, Ching-Ying Sung, Yu-Rong Cao, Wen-Chieh Lin
 paperurl: 'https://doi.org/10.1145/3334480.3382943
