@@ -86,10 +86,10 @@ author:
   location         : "Davis, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=b4fLL8gAAAAJ&hl=en&oi=ao"
+  googlescholar    : #"https://scholar.google.com/citations?user=b4fLL8gAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "{{ site.baseurl }}/files/Jingxian Liao CV 01_2023.pdf"
+  uri              : #"{{ site.baseurl }}/files/Jingxian Liao CV 01_2023.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
