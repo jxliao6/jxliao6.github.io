@@ -6,6 +6,6 @@ excerpt: 'Many generative AI systems are built for domain-specific knowledge wor
 date: 2025-04-01
 pubtype: 'short'
 venue: 'CHI 2025 EA'
-authors: Meredith Young-Ng, Qingxiaoyang Zhu, *Jingxian Liao*, Hao-Chuan Wang
+authors: Meredith Young-Ng, Qingxiaoyang Zhu, <strong>Jingxian Liao</strong>, Hao-Chuan Wang
 paperurl: ''
 ---
